@@ -1,4 +1,6 @@
-### Hi there 👋
+### OI, Eu sou o Gustavo 👋
+
+Sou um estudante autodidata apaixonado pelo que faz que é programar!
 
 <!--
 **gustta03/gustta03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
