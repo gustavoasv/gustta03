@@ -1,6 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustta03" alt="maykbrito" /> </p>
-
-
 <div display="inline-block">
   <a href="https://github.com/rafaballerini">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gustta03&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
