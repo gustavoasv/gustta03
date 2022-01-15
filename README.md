@@ -3,7 +3,7 @@ Desenvolvedor Front-end
 
 
 [![Instgram Badge](https://img.shields.io/badge/-@_.guusta-grey?style=flat-square&labelColor=grey&logo=instagram&logoColor=white&link=https://instagram.com/dieegosf)](https://instagram.com/_.guusta) 
-[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Alves-grey?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gusttaalves/)](https://www.linkedin.com/in/gusttaalves/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Gustavo%20Alve%20Silvas-grey?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gusttaalves/)](https://www.linkedin.com/in/gusttaalves/) 
 [![Gmail Badge](https://img.shields.io/badge/-gustavo_alves777@outlook.com-grey?style=flat-square&logo=Gmail&logoColor=white&link=mailtogustavo_alves777@outlook.com)](mailto:gustavo_alves777@outlook.com)
 
 JavaScript ecosystem enthusiast<br>
