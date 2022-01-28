@@ -10,5 +10,3 @@ JavaScript ecosystem enthusiast<br>
 Passionate about web development and solving problems through code lines
 
 <a href="https://github.com/gustta03">
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustta03&layout=compact&langs_count=7&theme=dracula"/>
